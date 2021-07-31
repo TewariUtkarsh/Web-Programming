@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1 id="top" style="text-align:center;"><U>Runtime Terrors</U></h1>
+<p style="text-align:right;"><a href="#bottom">Go To The End</a></p>
+<h1 style="text-align:center;"><U>Web Programming</U></h1>
+<h2 style="text-align:center;"><U>Activity 2</U></h2>
+<br>
+<h2><U>Team Members:-</U></h2>
+<ul>
+<li><font size="4">Utkarsh Tewari 	- RA1911031010006</font></li>
+<li><font size="4">Ritika Agarwal 	- RA1911031010012</font></li>
+<li><font size="4">Vibhav Bhriguvanshi - RA1911031010028</font></li>
+<li><font size="4">Ritik Gaur 		- RA1911031010041</font></li>
+<li><font size="4">Parth Tirthwani 	- RA1911031010049</font></li>
+<li><font size="4">Rohit Singh 	- RA1911031010060</font></li>
+</ul>
+
+<h2><U>All the text formatting tags of HTML</U></h2>
+<center>
+<table border="4">
+<caption align="top"><font size="6" color="red">Text Formatting Tags</font>
+</caption>
+<tr>
+<th>HTML Tag</th>
+<th>Output</th>
+</tr>
+<tr>
+<td>	Normal text	</td>
+<td>	hello world	</td>
+</tr>
+<tr>
+<td>Font & its attributes</td>
+<td><FONT SIZE=”+2″ COLOR=”#RRGGBB”> hello world
+</FONT></td>
+</tr>
+<tr>
+<td>&lt;B&gt;</td>
+<td><B> Bold </B></td>
+</tr>
+<tr>
+<td>&lt;I&gt;</td>
+<td><I> Italic </I></td>
+</tr>
+<tr>
+<td>&lt;U&gt;</td>
+<td><U> Underline </U></td>
+</tr>
+<tr>
+<td>&lt;EM&gt;</td>
+<td><EM> Emphasis </EM></td>
+</tr>
+<tr>
+<td>&lt;STRONG&gt;</td>
+<td><STRONG> STRONG </STRONG></td>
+</tr>
+<tr>
+<td>&lt;TELETYPE&gt;</td>
+<td><TT> TELETYPE </TT></td>
+</tr>
+<tr>
+<td>&lt;CITE&gt;</td>
+<td><CITE> Citation </CITE></td>
+</tr>
+<tr>
+<td>&lt;STRIKE&gt;</td>
+<td><STRIKE> strike-through text </STRIKE></td>
+</tr>
+
+<tr>
+<td>&lt;BIG&gt;</td>
+<td><BIG> text in a big font </BIG></td>
+</tr>
+<tr>
+<td>&lt;SMALL&gt;</td>
+<td><SMALL> text in a small font <SMALL></td>
+</tr>
+<tr>
+<td>&lt;SUB&gt;</td>
+<td>a<SUB> b </SUB></td>
+</tr>
+<tr>
+<td>&lt;SUP&gt;</td>
+<td>a<SUP> b</SUP></td>
+</tr>
+</table>
+<br />
+<br />
+
+<font size="4"><a href="https://www.youtube.com/watch?v=UJDhBU-LneM">YouTube</a></font>
+<font size="4"><a href="https://en.wikipedia.org/wiki/HTML">Wikipedia</a></font>
+
+<font size="4"><h3 id="bottom" style="text-align:center;">Thank You</h3></font>
+<p style="text-align:right;"><a href="#top">Start</a></p>
+</center>
+</body>
+</html>
